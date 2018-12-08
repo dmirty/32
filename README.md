@@ -9,3 +9,9 @@ vagrant up должен поднимать 2 виртуалки: сервер и
 в шаре должна быть папка upload с правами на запись
 - требования для NFS: NFSv3 по UDP, включенный firewall
 
+В Д.З 
+Вагрант файл https://github.com/dmirty/32/blob/master/Vagrantfile 
+и роли серера и клиента nfs  а также скриншот
+https://github.com/dmirty/32/blob/master/iMG.JPG
+
+
