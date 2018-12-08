@@ -1,0 +1,2 @@
+/srv/dmug 192.168.1.71/32(ro,no_subtree_check,async,nohide)
+/srv/nfs/share/upload 192.168.1.71/32(rw,fsid=0,no_subtree_check,async)
