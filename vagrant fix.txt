@@ -1,0 +1,4 @@
+
+vagrant plugin uninstall vagrant-vbguest
+
+vagrant plugin install vagrant-vbguest-centos
